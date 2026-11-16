@@ -5,18 +5,6 @@ Nel tempo libero costruisco gli strumenti che mi servono per lavorare meglio con
 
 ---
 
-### 🤖 Claude Code toolkit
-
-Strumenti che uso ogni giorno per estendere e controllare Claude Code.
-
-| Progetto | Cosa fa | Stack |
-|---|---|---|
-| [claude-code-status-line](https://github.com/alessiogilardi/claude-code-status-line) | Status line con directory, branch git, modello, token, uso del contesto, cache hit rate e costo della sessione | Bash · PowerShell |
-| [claude-second-brain](https://github.com/alessiogilardi/claude-second-brain) | Una skill-framework che dà ai progetti Claude Code un "secondo cervello", cioè una memoria strutturata e persistente | Shell |
-| [ccprofile-switch-cli](https://github.com/alessiogilardi/ccprofile-switch-cli) | CLI per aggiungere, rimuovere e passare da un profilo Claude Code all'altro | PowerShell |
-| [claude-skills](https://github.com/alessiogilardi/claude-skills) | La mia raccolta di skill per Claude, scritte a mano | Python |
-| [claude-code-planner](https://github.com/alessiogilardi/claude-code-planner) | Plugin per lo **Spec-Driven Development**: trasforma un'idea vaga in una spec tracciata e ne ricava un piano di implementazione preciso | Python |
-
 ### 🧠 AI & LLM
 
 | Progetto | Cosa fa | Stack |
@@ -31,6 +19,18 @@ Strumenti che uso ogni giorno per estendere e controllare Claude Code.
 | [pywire](https://github.com/alessiogilardi/pywire) | Container di **Dependency Injection** minimale per Python 3.13+, ispirato a `@Component`/`@Autowired` di Spring. Supporta il lifecycle sync e async e si integra con FastAPI | Python |
 | [py-hooks](https://github.com/alessiogilardi/py-hooks) | Raccolta di hook utili per lo sviluppo Python | Shell |
 | [flowstep](https://github.com/alessiogilardi/flowstep) | Framework leggero e type-safe per costruire ed eseguire pipeline di dati sequenziali | Python |
+
+### 🤖 Claude Code toolkit
+
+Strumenti che uso ogni giorno per estendere e controllare Claude Code.
+
+| Progetto | Cosa fa | Stack |
+|---|---|---|
+| [claude-code-status-line](https://github.com/alessiogilardi/claude-code-status-line) | Status line con directory, branch git, modello, token, uso del contesto, cache hit rate e costo della sessione | Bash · PowerShell |
+| [claude-second-brain](https://github.com/alessiogilardi/claude-second-brain) | Una skill-framework che dà ai progetti Claude Code un "secondo cervello", cioè una memoria strutturata e persistente | Shell |
+| [ccprofile-switch-cli](https://github.com/alessiogilardi/ccprofile-switch-cli) | CLI per aggiungere, rimuovere e passare da un profilo Claude Code all'altro | PowerShell |
+| [claude-skills](https://github.com/alessiogilardi/claude-skills) | La mia raccolta di skill per Claude, scritte a mano | Python |
+| [claude-code-planner](https://github.com/alessiogilardi/claude-code-planner) | Plugin per lo **Spec-Driven Development**: trasforma un'idea vaga in una spec tracciata e ne ricava un piano di implementazione preciso | Python |
 
 ### 🧰 Stack
 
